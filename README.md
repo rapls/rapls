@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 ## 📝 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
 - [【続編】PDF/X形式の真っ黒問題——ユーザーに頼らず、プラグイン側で解決した話](https://raplsworks.com/pdf-black-thumbnail-plugin-auto-fix/) (Fri Jan 30 2026 1:00 AM)
 - [【第1回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜基礎知識と問題の理解編](https://raplsworks.com/hiragana-kanji-suggest-part1-foundation/) (Thu Jan 29 2026 1:00 AM)
 - [【Cocoon】目次を本文の先頭に表示する方法｜最初のH2タグ前ではなく記事冒頭に配置するカスタマイズ](https://raplsworks.com/cocoon-toc-top-position-customization/) (Tue Jan 27 2026 9:17 AM)
 - [Site KitでConsent API警告が出た話｜自作同意バナー×Consent Modeの落とし穴と対処](https://raplsworks.com/site-kit-consent-mode-consent-api-warning/) (Sun Jan 25 2026 11:00 PM)
-- [【CSS】画面を縮小すると右側に謎の隙間が…原因は「固定幅」の積み重ねだった](https://raplsworks.com/css-responsive-right-gap-fixed-width/) (Fri Jan 23 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
+- [【CSS】画面を縮小すると右側に謎の隙間が…原因は「固定幅」の積み重ねだった](https://raplsworks.com/css-responsive-right-gap-fixed-width/) (Fri Jan 23 2026 11:00 PM)
+<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
