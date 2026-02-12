@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ATARI 2600の伝説 ─ 128バイトで世界を変えたゲーム機【Entombed完全解説①】](https://raplsworks.com/atari-2600-legend-128bytes-history/) (Wed Feb 11 2026 11:33 PM)
 - [【第4回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜応用テクニックと本番運用編](https://raplsworks.com/hiragana-kanji-suggest-part4-advanced/) (Mon Feb 09 2026 11:30 PM)
 - [【第3回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜実践コード完全版と動作デモ編](https://raplsworks.com/hiragana-kanji-suggest-part3-complete-code/) (Thu Feb 05 2026 11:30 PM)
 - [【第2回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜IME対応とJavaScript実装の基本編](https://raplsworks.com/hiragana-kanji-suggest-part2-implementation/) (Mon Feb 02 2026 11:30 PM)
-- [【続編】PDF/X形式の真っ黒問題——ユーザーに頼らず、プラグイン側で解決した話](https://raplsworks.com/pdf-black-thumbnail-plugin-auto-fix/) (Fri Jan 30 2026 1:00 AM)
-- [【第1回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜基礎知識と問題の理解編](https://raplsworks.com/hiragana-kanji-suggest-part1-foundation/) (Thu Jan 29 2026 1:00 AM)<!-- BLOG-POST-LIST:END -->
+- [【続編】PDF/X形式の真っ黒問題——ユーザーに頼らず、プラグイン側で解決した話](https://raplsworks.com/pdf-black-thumbnail-plugin-auto-fix/) (Fri Jan 30 2026 1:00 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
