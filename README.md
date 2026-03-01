@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [YouTubeで動画再生中にマウスカーソルが消える…あの「地味にイラっとする現象」を完全に防止する方法](https://raplsworks.com/youtube-cursor-disappear-fix-stylus-tampermonkey/) (Fri Feb 13 2026 10:41 AM)
-- [ATARI 2600の伝説 ─ 128バイトで世界を変えたゲーム機【Entombed完全解説①】](https://raplsworks.com/atari-2600-legend-128bytes-history/) (Wed Feb 11 2026 11:33 PM)
-- [【第4回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜応用テクニックと本番運用編](https://raplsworks.com/hiragana-kanji-suggest-part4-advanced/) (Mon Feb 09 2026 11:30 PM)
-- [【第3回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜実践コード完全版と動作デモ編](https://raplsworks.com/hiragana-kanji-suggest-part3-complete-code/) (Thu Feb 05 2026 11:30 PM)
-- [【第2回】ひらがな入力で漢字候補を表示する検索サジェストの作り方｜IME対応とJavaScript実装の基本編](https://raplsworks.com/hiragana-kanji-suggest-part2-implementation/) (Mon Feb 02 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [【開発者向け】WordPress 7.0の技術的変更点を深掘り ― Abilities API・AI Client・DataViews・iframe化のすべて](https://raplsworks.com/wordpress-7-0-developer-guide/) (Sat Feb 28 2026 1:27 PM)
+- [WordPress 7.0の新機能を完全ガイド！初心者でもわかる2026年最大アップデートの全貌](https://raplsworks.com/wordpress-7-0-new-features-guide/) (Sat Feb 28 2026 12:28 PM)
+- [Cocoonのキャッシュ削除＆高速化 完全ガイド｜プラグインと競合しない安全な設定方法](https://raplsworks.com/cocoon-cache-speedup-guide/) (Sat Feb 28 2026 12:00 AM)
+- [Site Kitの「Sign in with Google」が全ページにgsi/clientを読み込みPageSpeedスコアを19点下げていた｜原因と対策](https://raplsworks.com/site-kit-sign-in-gsi-client-pagespeed-fix/) (Mon Feb 23 2026 11:30 PM)
+- [【WordPress】投稿数の少ないタグを非表示にしてSEO・ユーザビリティを改善する方法【Cocoon対応】](https://raplsworks.com/wordpress-hide-low-count-tags-seo/) (Thu Feb 19 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
