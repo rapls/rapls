@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rapls AI Chatbot｜WordPress用AIチャットボットプラグイン仕様・設定・変更履歴](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)
 - [WordPress「永続オブジェクトキャッシュを使用してください」完全対処ガイド｜サーバー別に徹底解説](https://raplsworks.com/wordpress-persistent-object-cache-guide/) (Thu Mar 05 2026 11:30 PM)
 - [「検出 – インデックス未登録」が1ヶ月続いた記事を3日で解決した方法｜URL変更という最終手段](https://raplsworks.com/google-index-url-change-solution/) (Mon Mar 02 2026 11:30 PM)
 - [【開発者向け】WordPress 7.0の技術的変更点を深掘り ― Abilities API・AI Client・DataViews・iframe化のすべて](https://raplsworks.com/wordpress-7-0-developer-guide/) (Sat Feb 28 2026 1:27 PM)
-- [WordPress 7.0の新機能を完全ガイド！初心者でもわかる2026年最大アップデートの全貌](https://raplsworks.com/wordpress-7-0-new-features-guide/) (Sat Feb 28 2026 12:28 PM)
-- [Cocoonのキャッシュ削除＆高速化 完全ガイド｜プラグインと競合しない安全な設定方法](https://raplsworks.com/cocoon-cache-speedup-guide/) (Sat Feb 28 2026 12:00 AM)<!-- BLOG-POST-LIST:END -->
+- [WordPress 7.0の新機能を完全ガイド！初心者でもわかる2026年最大アップデートの全貌](https://raplsworks.com/wordpress-7-0-new-features-guide/) (Sat Feb 28 2026 12:28 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
