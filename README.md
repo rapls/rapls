@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress関数一覧まとめ【Part1】テーマ制作者向け完全ガイド｜ループ・テンプレタグ・画像・ナビゲーション](https://raplsworks.com/wordpress-theme-functions-reference/) (Mon Mar 16 2026 11:30 PM)
 - [My WordPress（my.wordpress.net）完全ガイド｜ブラウザだけで本物のWordPressが動く無料サービスを徹底解説【2026年版】](https://raplsworks.com/my-wordpress-net-browser-wordpress/) (Fri Mar 13 2026 6:23 AM)
 - [WordPressの「更新情報サービス（PING送信）」はまだ必要？有用性・注意点・代替案まで【2026年版】](https://raplsworks.com/wordpress-update-services-ping/) (Thu Mar 12 2026 11:30 PM)
 - [【WordPress】クラシックエディターでビジュアル切替するとHTMLが崩れる！原因と7つの対策を徹底解説](https://raplsworks.com/wordpress-classic-editor-visual-html-fix/) (Mon Mar 09 2026 11:30 PM)
-- [Rapls AI Chatbot｜WordPress用AIチャットボットプラグイン仕様・設定・変更履歴](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)
-- [WordPress「永続オブジェクトキャッシュを使用してください」完全対処ガイド｜サーバー別に徹底解説](https://raplsworks.com/wordpress-persistent-object-cache-guide/) (Thu Mar 05 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [Rapls AI Chatbot｜WordPress用AIチャットボットプラグイン仕様・設定・変更履歴](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
