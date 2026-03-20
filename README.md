@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress関数一覧まとめ【Part2】プラグイン開発者向け完全ガイド｜設定画面・管理メニュー・メタボックス・権限](https://raplsworks.com/wordpress-functions-plugin-settings/) (Thu Mar 19 2026 11:30 PM)
 - [PDFサムネイルが真っ黒になる全原因と解決策｜Illustrator設定からプラグイン自動修正まで](https://raplsworks.com/pdf-thumbnail-black-complete-fix/) (Wed Mar 18 2026 2:48 AM)
 - [WordPress関数一覧まとめ【Part1】テーマ制作者向け完全ガイド｜ループ・テンプレタグ・画像・ナビゲーション](https://raplsworks.com/wordpress-theme-functions-reference/) (Mon Mar 16 2026 11:30 PM)
 - [My WordPress（my.wordpress.net）完全ガイド｜ブラウザだけで本物のWordPressが動く無料サービスを徹底解説【2026年版】](https://raplsworks.com/my-wordpress-net-browser-wordpress/) (Fri Mar 13 2026 6:23 AM)
-- [WordPressの「更新情報サービス（PING送信）」はまだ必要？有用性・注意点・代替案まで【2026年版】](https://raplsworks.com/wordpress-update-services-ping/) (Thu Mar 12 2026 11:30 PM)
-- [【WordPress】クラシックエディターでビジュアル切替するとHTMLが崩れる！原因と7つの対策を徹底解説](https://raplsworks.com/wordpress-classic-editor-visual-html-fix/) (Mon Mar 09 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [WordPressの「更新情報サービス（PING送信）」はまだ必要？有用性・注意点・代替案まで【2026年版】](https://raplsworks.com/wordpress-update-services-ping/) (Thu Mar 12 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
