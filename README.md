@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【第2章】WP-CLI実戦編：サーバー別注意点・移行/保守テンプレ・マルチサイト・CI/CD（初心者〜中級）](https://raplsworks.com/wp-cli-guide-2/) (Thu Apr 02 2026 11:30 PM)
 - [【第1章】WP-CLI完全入門：WordPressを”コマンド”で管理する基礎（初心者〜中級）](https://raplsworks.com/wp-cli-guide-1/) (Mon Mar 30 2026 11:30 PM)
 - [XserverのWAF誤検知で501エラー！コード付き記事が投稿できない原因と完全対策ガイド【WordPress】](https://raplsworks.com/xserver-waf-501-error-wordpress-code-solution/) (Thu Mar 26 2026 11:30 PM)
 - [WordPress関数一覧まとめ【Part3】Ajax・REST API・セキュリティ設計ガイド｜nonce検証からWP_Filesystem・SSRF対策まで](https://raplsworks.com/wordpress-ajax-rest-api-security-guide/) (Mon Mar 23 2026 11:30 PM)
-- [WordPress関数一覧まとめ【Part2】プラグイン開発者向け完全ガイド｜設定画面・管理メニュー・メタボックス・権限](https://raplsworks.com/wordpress-functions-plugin-settings/) (Thu Mar 19 2026 11:30 PM)
-- [PDFサムネイルが真っ黒になる全原因と解決策｜Illustrator設定からプラグイン自動修正まで](https://raplsworks.com/pdf-thumbnail-black-complete-fix/) (Wed Mar 18 2026 2:48 AM)<!-- BLOG-POST-LIST:END -->
+- [WordPress関数一覧まとめ【Part2】プラグイン開発者向け完全ガイド｜設定画面・管理メニュー・メタボックス・権限](https://raplsworks.com/wordpress-functions-plugin-settings/) (Thu Mar 19 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
