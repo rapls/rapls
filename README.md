@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [CloudflareがWordPressの「精神的後継」を発表——新CMS「EmDash」の全貌と移行すべき理由](https://raplsworks.com/cloudflare-emdash-wordpress-successor/) (Mon Apr 13 2026 11:30 PM)
 - [HPにメアドを載せたらスパムが激増｜複数クローラーとコピペ拡散を前提に守る5層レイヤー防御](https://raplsworks.com/email-spam-protection-layers/) (Thu Apr 09 2026 11:30 PM)
 - [WordPress 7.0 アップデート完全ガイド【2026年最新】手順・注意点・テスト環境まで徹底解説](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)
 - [target=”_blank”のタブナビング攻撃とは？対策・SEO影響・WordPress/ブラウザ最新事情【2026年版】](https://raplsworks.com/target-blank-tabnabbing-noopener-wordpress/) (Mon Apr 06 2026 11:30 PM)
-- [【第2章】WP-CLI実戦編：サーバー別注意点・移行/保守テンプレ・マルチサイト・CI/CD（初心者〜中級）](https://raplsworks.com/wp-cli-guide-2/) (Thu Apr 02 2026 11:30 PM)
-- [【第1章】WP-CLI完全入門：WordPressを”コマンド”で管理する基礎（初心者〜中級）](https://raplsworks.com/wp-cli-guide-1/) (Mon Mar 30 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [【第2章】WP-CLI実戦編：サーバー別注意点・移行/保守テンプレ・マルチサイト・CI/CD（初心者〜中級）](https://raplsworks.com/wp-cli-guide-2/) (Thu Apr 02 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
