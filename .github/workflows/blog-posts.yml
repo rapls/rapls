@@ -16,5 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://raplsworks.com/feed/"
-          max_post_count: 5
+          max_post_count: 7
           template: "$newline- [$title]($url) ($date)"
