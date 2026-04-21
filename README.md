@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress管理画面が13年ぶりに刷新——DataViewsの全貌と互換性リスク完全ガイド](https://raplsworks.com/wordpress-dataviews-admin-guide/) (Mon Apr 20 2026 11:30 PM)
 - [WordPressでAIエージェント時代が始まった——MCP・Claude Connector・Connectors UIを完全解説](https://raplsworks.com/wordpress-mcp-claude-connector-guide/) (Thu Apr 16 2026 11:30 PM)
 - [WordPressプラグイン31本にバックドア発覚——「転売」が生んだサプライチェーン攻撃の全貌と対策](https://raplsworks.com/wordpress-plugin-backdoor-supply-chain-attack/) (Tue Apr 14 2026 12:22 PM)
 - [CloudflareがWordPressの「精神的後継」を発表——新CMS「EmDash」の全貌と移行すべき理由](https://raplsworks.com/cloudflare-emdash-wordpress-successor/) (Mon Apr 13 2026 11:30 PM)
-- [HPにメアドを載せたらスパムが激増｜複数クローラーとコピペ拡散を前提に守る5層レイヤー防御](https://raplsworks.com/email-spam-protection-layers/) (Thu Apr 09 2026 11:30 PM)
-- [WordPress 7.0 アップデート完全ガイド【2026年最新】手順・注意点・テスト環境まで徹底解説](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [HPにメアドを載せたらスパムが激増｜複数クローラーとコピペ拡散を前提に守る5層レイヤー防御](https://raplsworks.com/email-spam-protection-layers/) (Thu Apr 09 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
