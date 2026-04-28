@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WP AI Client完全解説——WordPress 7.0で変わるAI連携の新標準](https://raplsworks.com/wp-ai-client-complete-guide/) (Mon Apr 27 2026 11:30 PM)
 - [WordPress Interactivity APIとは——jQuery不要の宣言的UIをコード例で徹底解説](https://raplsworks.com/wordpress-interactivity-api-guide/) (Thu Apr 23 2026 11:30 PM)
 - [WordPress管理画面が13年ぶりに刷新——DataViewsの全貌と互換性リスク完全ガイド](https://raplsworks.com/wordpress-dataviews-admin-guide/) (Mon Apr 20 2026 11:30 PM)
 - [WordPressでAIエージェント時代が始まった——MCP・Claude Connector・Connectors UIを完全解説](https://raplsworks.com/wordpress-mcp-claude-connector-guide/) (Thu Apr 16 2026 11:30 PM)
-- [WordPressプラグイン31本にバックドア発覚——「転売」が生んだサプライチェーン攻撃の全貌と対策](https://raplsworks.com/wordpress-plugin-backdoor-supply-chain-attack/) (Tue Apr 14 2026 12:22 PM)
-- [CloudflareがWordPressの「精神的後継」を発表——新CMS「EmDash」の全貌と移行すべき理由](https://raplsworks.com/cloudflare-emdash-wordpress-successor/) (Mon Apr 13 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [WordPressプラグイン31本にバックドア発覚——「転売」が生んだサプライチェーン攻撃の全貌と対策](https://raplsworks.com/wordpress-plugin-backdoor-supply-chain-attack/) (Tue Apr 14 2026 12:22 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
