@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [WP AI Client完全解説——WordPress 7.0で変わるAI連携の新標準](https://raplsworks.com/wp-ai-client-complete-guide/) (Mon Apr 27 2026 11:30 PM)
-- [WordPress Interactivity APIとは——jQuery不要の宣言的UIをコード例で徹底解説](https://raplsworks.com/wordpress-interactivity-api-guide/) (Thu Apr 23 2026 11:30 PM)
-- [WordPress管理画面が13年ぶりに刷新——DataViewsの全貌と互換性リスク完全ガイド](https://raplsworks.com/wordpress-dataviews-admin-guide/) (Mon Apr 20 2026 11:30 PM)
-- [WordPressでAIエージェント時代が始まった——MCP・Claude Connector・Connectors UIを完全解説](https://raplsworks.com/wordpress-mcp-claude-connector-guide/) (Thu Apr 16 2026 11:30 PM)
-- [WordPressプラグイン31本にバックドア発覚——「転売」が生んだサプライチェーン攻撃の全貌と対策](https://raplsworks.com/wordpress-plugin-backdoor-supply-chain-attack/) (Tue Apr 14 2026 12:22 PM)<!-- BLOG-POST-LIST:END -->
+- [HPにメアドを載せたらスパムが激増｜複数クローラーとコピペ拡散を前提に守る5層レイヤー防御](https://raplsworks.com/email-spam-protection-layers/) (Thu Apr 09 2026 11:30 PM)
+- [WordPress 7.0 アップデート完全ガイド【2026年最新】手順・注意点・テスト環境まで徹底解説](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)
+- [XserverのWAF誤検知で501エラー！コード付き記事が投稿できない原因と完全対策ガイド｜MarsEdit回避術も【WordPress】](https://raplsworks.com/xserver-waf-501-error-wordpress-code-solution/) (Thu Mar 26 2026 11:30 PM)
+- [【WordPress】クラシックエディターでビジュアル切替するとHTMLが崩れる！原因と7つの対策を徹底解説](https://raplsworks.com/wordpress-classic-editor-visual-html-fix/) (Mon Mar 09 2026 11:30 PM)
+- [Rapls AI Chatbot開発者が解説｜なぜ作ったか・RAGの設計判断・つまずきポイントまで](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
