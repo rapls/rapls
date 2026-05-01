@@ -3,10 +3,10 @@
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [HPにメアドを載せたらスパムが激増｜複数クローラーとコピペ拡散を前提に守る5層レイヤー防御](https://raplsworks.com/email-spam-protection-layers/) (Thu Apr 09 2026 11:30 PM)
-- [WordPress 7.0 アップデート完全ガイド【2026年最新】手順・注意点・テスト環境まで徹底解説](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)
 - [XserverのWAF誤検知で501エラー！コード付き記事が投稿できない原因と完全対策ガイド｜MarsEdit回避術も【WordPress】](https://raplsworks.com/xserver-waf-501-error-wordpress-code-solution/) (Thu Mar 26 2026 11:30 PM)
 - [Rapls AI Chatbot開発者が解説｜なぜ作ったか・RAGの設計判断・つまずきポイントまで](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)
-- [WordPress「永続オブジェクトキャッシュを使用してください」完全対処ガイド｜サーバー別に徹底解説](https://raplsworks.com/wordpress-persistent-object-cache-guide/) (Thu Mar 05 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [「検出 – インデックス未登録」が1ヶ月続いた記事を3日で解決した方法｜URL変更という最終手段](https://raplsworks.com/google-index-url-change-solution/) (Mon Mar 02 2026 11:30 PM)
+- [WordPress 7.0の新機能を完全ガイド！初心者でもわかる2026年最大アップデートの全貌](https://raplsworks.com/wordpress-7-0-new-features-guide/) (Sat Feb 28 2026 12:28 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
