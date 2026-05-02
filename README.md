@@ -4,7 +4,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [WordPress 7.0 アップデート完全ガイド【2026年最新】手順・注意点・テスト環境まで徹底解説](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)
 - [XserverのWAF誤検知で501エラー！コード付き記事が投稿できない原因と完全対策ガイド｜MarsEdit回避術も【WordPress】](https://raplsworks.com/xserver-waf-501-error-wordpress-code-solution/) (Thu Mar 26 2026 11:30 PM)
-- [Rapls AI Chatbot開発者が解説｜なぜ作ったか・RAGの設計判断・つまずきポイントまで](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)
+- [Rapls AI Chatbot ガイド:WordPress AIチャットボットの導入から運用まで](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)
 - [「検出 – インデックス未登録」が1ヶ月続いた記事を3日で解決した方法｜URL変更という最終手段](https://raplsworks.com/google-index-url-change-solution/) (Mon Mar 02 2026 11:30 PM)
 - [【開発者向け】WordPress 7.0の技術的変更点を深掘り ― Abilities API・AI Client・DataViews・iframe化のすべて](https://raplsworks.com/wordpress-7-0-developer-guide/) (Sat Feb 28 2026 1:27 PM)<!-- BLOG-POST-LIST:END -->
 <!--
