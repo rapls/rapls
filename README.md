@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [日本語入力のEnterでフォームが誤送信される問題を直した話｜Safari・React・Vue対応](https://raplsworks.com/ime-enter-prevent-form-submission/) (Thu May 07 2026 11:35 PM)
 - [WordPress 7.0 アップデート完全ガイド｜2026年5月20日リリース・サイト運営者がやるべき準備と確認手順](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)
 - [特定のWordPress記事だけ「501 Not Implemented」になった話｜Xserver WAFの誤検知とMarsEditで抜けた経緯](https://raplsworks.com/xserver-waf-501-error-wordpress-code-solution/) (Thu Mar 26 2026 11:30 PM)
 - [Rapls AI Chatbot ガイド:WordPress AIチャットボットの導入から運用まで](https://raplsworks.com/rapls-ai-chatbot-guide/) (Fri Mar 06 2026 6:35 AM)
-- [1記事だけ「検出 – インデックス未登録」が1ヶ月以上続いた話｜URL変更と301リダイレクトで動いた](https://raplsworks.com/google-index-url-change-solution/) (Mon Mar 02 2026 11:30 PM)
-- [WordPress 7.0 開発者ガイド｜block.json apiVersion 3、PHP 7.4、DataViews、AI連携の対応マニュアル](https://raplsworks.com/wordpress-7-0-developer-guide/) (Sat Feb 28 2026 1:27 PM)<!-- BLOG-POST-LIST:END -->
+- [1記事だけ「検出 – インデックス未登録」が1ヶ月以上続いた話｜URL変更と301リダイレクトで動いた](https://raplsworks.com/google-index-url-change-solution/) (Mon Mar 02 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
