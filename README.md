@@ -6,7 +6,7 @@
 - [姓名フォームのフリガナ自動入力をcompositionイベントで自前実装した話](https://raplsworks.com/seimei-furigana-composition/) (Sat May 09 2026 11:30 PM)
 - [Contact Form 7でzipaddr-jpが動かなかった話｜郵便番号→住所自動入力で踏んだid命名規則の罠](https://raplsworks.com/contact-form-7-zipaddr-jp-postal-code-trap/) (Sat May 09 2026 12:22 AM)
 - [日本語入力のEnterでフォームが誤送信される問題を直した話｜Safari・React・Vue対応](https://raplsworks.com/ime-enter-prevent-form-submission/) (Thu May 07 2026 11:35 PM)
-- [WordPress 7.0 アップデート完全ガイド｜2026年5月20日リリース・サイト運営者がやるべき準備と確認手順](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
+- [WordPress 7.0 アップデート前にサイト運営者が確認しておきたいこと&lpar;2026年5月20日リリース予定&rpar;](https://raplsworks.com/wordpress-7-update-guide/) (Wed Apr 08 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
