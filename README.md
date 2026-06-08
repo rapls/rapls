@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Code with Claude Tokyo まで1週間、個人開発者として予習していること](https://raplsworks.com/code-with-claude-tokyo-2026/) (Thu Jun 04 2026 11:00 PM)
-- [半年前に AI と一緒に書いたコードを、自分でメンテできなくなった話](https://raplsworks.com/ai-generated-code-maintenance/) (Mon Jun 01 2026 11:00 PM)
 - [WP AI Clientへ移行したら、エラーも出さずに会話の履歴が消えた](https://raplsworks.com/wp-ai-client-history-marshalling/) (Thu May 28 2026 1:00 PM)
 - [サイトヘルスの「永続オブジェクトキャッシュを使用してください」に、エックスサーバーで向き合った記録](https://raplsworks.com/wordpress-persistent-object-cache-guide/) (Mon May 25 2026 11:04 PM)
-- [翻訳がWaitingのまま動かない——自作プラグインのPTEを9日かけて取得した話](https://raplsworks.com/wordpress-pte-request-guide/) (Thu May 21 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
+- [翻訳がWaitingのまま動かない——自作プラグインのPTEを9日かけて取得した話](https://raplsworks.com/wordpress-pte-request-guide/) (Thu May 21 2026 11:00 PM)
+- [日本語フォームの半角カナ・全角英数をinputとblurで使い分けて自動変換する話](https://raplsworks.com/hankaku-zenkaku-auto-conversion/) (Sun May 10 2026 3:33 AM)
+- [姓名フォームのフリガナ自動入力をcompositionイベントで自前実装した話](https://raplsworks.com/seimei-furigana-composition/) (Sat May 09 2026 11:30 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
