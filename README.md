@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AI チャットボットを4社対応にした話｜OpenAI・Claude・Gemini・OpenRouter の差を1枚の層で吸収した設計](https://raplsworks.com/ai-chatbot-multi-provider-abstraction/) (Tue Jun 09 2026 11:00 PM)
 - [Brainfuck のベンチで AI が満点を取った、けれど「8 8」で正体が割れた話｜EsoLang-Bench を Codex CLI で再現して見た、カンニングと本物の境目](https://raplsworks.com/esolang-bench-codex-cli-cheating/) (Mon Jun 08 2026 11:00 PM)
 - [WP AI Clientへ移行したら、エラーも出さずに会話の履歴が消えた](https://raplsworks.com/wp-ai-client-history-marshalling/) (Thu May 28 2026 1:00 PM)
 - [サイトヘルスの「永続オブジェクトキャッシュを使用してください」に、エックスサーバーで向き合った記録](https://raplsworks.com/wordpress-persistent-object-cache-guide/) (Mon May 25 2026 11:04 PM)
-- [翻訳がWaitingのまま動かない——自作プラグインのPTEを9日かけて取得した話](https://raplsworks.com/wordpress-pte-request-guide/) (Thu May 21 2026 11:00 PM)
-- [日本語フォームの半角カナ・全角英数をinputとblurで使い分けて自動変換する話](https://raplsworks.com/hankaku-zenkaku-auto-conversion/) (Sun May 10 2026 3:33 AM)<!-- BLOG-POST-LIST:END -->
+- [翻訳がWaitingのまま動かない——自作プラグインのPTEを9日かけて取得した話](https://raplsworks.com/wordpress-pte-request-guide/) (Thu May 21 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
