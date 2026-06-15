@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [施策が効いたのか、効かなかったのかが分からない｜有効インストール10未満のプラグインで、計測の前提を間違えた話](https://raplsworks.com/plugin-onboarding-measurement-trap/) (Sun Jun 14 2026 11:00 PM)
 - [AIベンチの「カンニング」を未知入力で見抜く｜EsoLang-Bench 再現で作った採点ハーネス](https://raplsworks.com/esolang-bench-scoring-harness/) (Thu Jun 11 2026 11:00 PM)
 - [プラグインが 24 時間反映されない？WordPress.org の配信保留が全プラグインに広がっていました](https://raplsworks.com/wordpress-plugin-24hour-delay/) (Thu Jun 11 2026 12:52 PM)
 - [ユーザーの API キーをどこに預かるか問題｜WordPress プラグインで AES-256-GCM を使った話](https://raplsworks.com/wordpress-api-key-aes-256-gcm/) (Wed Jun 10 2026 11:00 PM)
-- [AI チャットボットを4社対応にした話｜OpenAI・Claude・Gemini・OpenRouter の差を1枚の層で吸収した設計](https://raplsworks.com/ai-chatbot-multi-provider-abstraction/) (Tue Jun 09 2026 11:00 PM)
-- [Brainfuck のベンチで AI が満点を取った、けれど「8 8」で正体が割れた話｜EsoLang-Bench を Codex CLI で再現して見た、カンニングと本物の境目](https://raplsworks.com/esolang-bench-codex-cli-cheating/) (Mon Jun 08 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
+- [AI チャットボットを4社対応にした話｜OpenAI・Claude・Gemini・OpenRouter の差を1枚の層で吸収した設計](https://raplsworks.com/ai-chatbot-multi-provider-abstraction/) (Tue Jun 09 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
