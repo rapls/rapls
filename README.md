@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [8割をAIと書いたコードを、1年後の自分が読めなくなった話｜「動いた」は完成じゃない](https://raplsworks.com/ai-code-i-cant-maintain/) (Fri Jun 26 2026 7:05 AM)
 - [WP-Cron を時計として信じるのをやめた｜予約投稿を「ズレ・重複・取りこぼし前提」で組み直した設計](https://raplsworks.com/wp-cron-eventual-consistency-scheduled-post/) (Mon Jun 22 2026 11:00 PM)
 - [Qiita には画像アップロードの API が無かった｜予約投稿プラグインで詰まって、URL 埋め込みに切り替えた話](https://raplsworks.com/qiita-image-upload-no-api/) (Thu Jun 18 2026 11:00 PM)
 - [施策が効いたのか、効かなかったのかが分からない｜有効インストール10未満のプラグインで、計測の前提を間違えた話](https://raplsworks.com/plugin-onboarding-measurement-trap/) (Sun Jun 14 2026 11:00 PM)
-- [AIベンチの「カンニング」を未知入力で見抜く｜EsoLang-Bench 再現で作った採点ハーネス](https://raplsworks.com/esolang-bench-scoring-harness/) (Thu Jun 11 2026 11:00 PM)
-- [プラグインが 24 時間反映されない？WordPress.org の配信保留が全プラグインに広がっていました](https://raplsworks.com/wordpress-plugin-24hour-delay/) (Thu Jun 11 2026 12:52 PM)<!-- BLOG-POST-LIST:END -->
+- [AIベンチの「カンニング」を未知入力で見抜く｜EsoLang-Bench 再現で作った採点ハーネス](https://raplsworks.com/esolang-bench-scoring-harness/) (Thu Jun 11 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
