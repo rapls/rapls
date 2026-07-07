@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS 27でAFPのTime Machineが終わる。うちのNASは大丈夫か、5分で確かめた](https://raplsworks.com/macos27-time-machine-afp-smb-check/) (Mon Jul 06 2026 11:00 PM)
 - [Rosetta 2が消える前に、Macの中のIntelをコマンドで棚卸しした](https://raplsworks.com/rosetta2-intel-app-audit/) (Thu Jul 02 2026 11:00 PM)
 - [Mountain Duckのゴミ箱が消えない｜datalessの幽霊フォルダを半日かけて諦めた話](https://raplsworks.com/mountainduck-trash-dataless-ghost-folder/) (Mon Jun 29 2026 10:00 PM)
 - [8割をAIと書いたコードを、1年後の自分が読めなくなった話｜「動いた」は完成じゃない](https://raplsworks.com/ai-code-i-cant-maintain/) (Fri Jun 26 2026 7:05 AM)
-- [WP-Cron を時計として信じるのをやめた｜予約投稿を「ズレ・重複・取りこぼし前提」で組み直した設計](https://raplsworks.com/wp-cron-eventual-consistency-scheduled-post/) (Mon Jun 22 2026 11:00 PM)
-- [Qiita には画像アップロードの API が無かった｜予約投稿プラグインで詰まって、URL 埋め込みに切り替えた話](https://raplsworks.com/qiita-image-upload-no-api/) (Thu Jun 18 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
+- [WP-Cron を時計として信じるのをやめた｜予約投稿を「ズレ・重複・取りこぼし前提」で組み直した設計](https://raplsworks.com/wp-cron-eventual-consistency-scheduled-post/) (Mon Jun 22 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
