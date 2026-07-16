@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [macOS 27パブリックベータ、来ました。1週間先に住んでいた私からの現地報告](https://raplsworks.com/macos27-public-beta-day-one/) (Thu Jul 16 2026 11:00 PM)
 - [Parallelsの中身はIntelだらけだった。Windows 11を動かす自分は、Rosetta 2が消えたら困るのか](https://raplsworks.com/parallels-arm-windows11-rosetta2/) (Mon Jul 13 2026 11:00 PM)
 - [macOS 27ベータを、メインを壊さずに試した。別APFSボリュームで二重生活する手順](https://raplsworks.com/macos27-beta-safe-install/) (Thu Jul 09 2026 11:00 PM)
 - [macOS 27でAFPのTime Machineが終わる。うちのNASは大丈夫か、5分で確かめた](https://raplsworks.com/macos27-time-machine-afp-smb-check/) (Mon Jul 06 2026 11:00 PM)
-- [Rosetta 2が消える前に、Macの中のIntelをコマンドで棚卸しした](https://raplsworks.com/rosetta2-intel-app-audit/) (Thu Jul 02 2026 11:00 PM)
-- [Mountain Duckのゴミ箱が消えない｜datalessの幽霊フォルダを半日かけて諦めた話](https://raplsworks.com/mountainduck-trash-dataless-ghost-folder/) (Mon Jun 29 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [Rosetta 2が消える前に、Macの中のIntelをコマンドで棚卸しした](https://raplsworks.com/rosetta2-intel-app-audit/) (Thu Jul 02 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
