@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [フォルダを消されたあと、settings.jsonをどう書き直したか。denyリストでは足りなかった](https://raplsworks.com/claude-code-settings-deny-hooks/) (Thu Jul 30 2026 10:00 PM)
 - [Claude Codeにフォルダを消された。安全網は3枚あって、3枚とも素通りした](https://raplsworks.com/post-3918/) (Mon Jul 27 2026 10:00 PM)
 - [error.messageは4社で揃っていた。なのに「何が起きたか」だけが揃わなかった](https://raplsworks.com/ai-provider-error-parsing-divergence/) (Thu Jul 23 2026 11:00 PM)
 - [同じMacでTahoeと27を往復した。Liquid Glassの直り方を、並べて確かめる](https://raplsworks.com/macos27-liquid-glass-comparison/) (Mon Jul 20 2026 10:00 PM)
-- [macOS 27パブリックベータ、来ました。1週間先に住んでいた私からの現地報告](https://raplsworks.com/macos27-public-beta-day-one/) (Thu Jul 16 2026 11:00 PM)
-- [Parallelsの中身はIntelだらけだった。Windows 11を動かす自分は、Rosetta 2が消えたら困るのか](https://raplsworks.com/parallels-arm-windows11-rosetta2/) (Mon Jul 13 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
+- [macOS 27パブリックベータ、来ました。1週間先に住んでいた私からの現地報告](https://raplsworks.com/macos27-public-beta-day-one/) (Thu Jul 16 2026 11:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
