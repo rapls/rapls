@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress 7.1 を RC2 で触った。増えたメニューの大半は 7.1 のものではなかった](https://raplsworks.com/wordpress-7-1-new-features-guide/) (Tue Aug 11 2026 10:00 PM)
 - [同じ429なのに、正しい対処が真逆になる。4社のレート制限を1枚のレイヤーで受けた話](https://raplsworks.com/ai-provider-429-divergence/) (Mon Aug 10 2026 10:00 PM)
 - [Site KitでConsent API警告が出た話｜自作同意バナー×Consent Modeの落とし穴と対処](https://raplsworks.com/site-kit-consent-mode-consent-api-warning/) (Thu Aug 06 2026 10:00 PM)
 - [Time Machineだけでは足りなかった。resticでワークスペースだけを6時間ごとにNASへ残す](https://raplsworks.com/restic-synology-sftp-launchd/) (Mon Aug 03 2026 10:00 PM)
-- [フォルダを消されたあと、settings.jsonをどう書き直したか。denyリストでは足りなかった](https://raplsworks.com/claude-code-settings-deny-hooks/) (Thu Jul 30 2026 10:00 PM)
-- [Claude Codeにフォルダを消された。安全網は3枚あって、3枚とも素通りした](https://raplsworks.com/claude-code-deleted-docs-time-machine/) (Mon Jul 27 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [フォルダを消されたあと、settings.jsonをどう書き直したか。denyリストでは足りなかった](https://raplsworks.com/claude-code-settings-deny-hooks/) (Thu Jul 30 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
