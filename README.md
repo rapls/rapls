@@ -2,7 +2,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [restic で同じ日の世代が消える｜keep-within と launchd の設定](https://raplsworks.com/post-4336/) (Mon Aug 24 2026 10:00 PM)
+- [restic で同じ日の世代が消える｜keep-within と launchd の設定](https://raplsworks.com/restic-keep-daily-keep-within/) (Mon Aug 24 2026 10:00 PM)
 - [PS Auto Sitemap の代わりを作った｜4年空いていた場所と、そこで決めたこと](https://raplsworks.com/ps-auto-sitemap-no-kawari-wo-tsukutta/) (Sun Aug 23 2026 4:11 AM)
 - [WP-CLI が全部落ちた。原因は自分のプラグインが読み込んでいた Composer だった](https://raplsworks.com/wordpress-plugin-composer-php-version-guard/) (Thu Aug 20 2026 10:50 PM)
 - [ショートコードの解説を書いたら、記事の中でそれが実行された。18個は、まだ動いていなかっただけ](https://raplsworks.com/wordpress-shortcode-escape/) (Mon Aug 17 2026 10:00 PM)
