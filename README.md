@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Local の Intel バイナリを1,285件から217件に減らした。残ったのは毎日使っている PHP だった](https://raplsworks.com/local-wp-intel-binary-cleanup/) (Thu Aug 27 2026 10:00 PM)
 - [restic で同じ日の世代が消える｜keep-within と launchd の設定](https://raplsworks.com/restic-keep-daily-keep-within/) (Mon Aug 24 2026 10:00 PM)
 - [PS Auto Sitemap の代わりを作った｜4年空いていた場所と、そこで決めたこと](https://raplsworks.com/ps-auto-sitemap-no-kawari-wo-tsukutta/) (Sun Aug 23 2026 4:11 AM)
 - [WP-CLI が全部落ちた。原因は自分のプラグインが読み込んでいた Composer だった](https://raplsworks.com/wordpress-plugin-composer-php-version-guard/) (Thu Aug 20 2026 10:50 PM)
-- [ショートコードの解説を書いたら、記事の中でそれが実行された。18個は、まだ動いていなかっただけ](https://raplsworks.com/wordpress-shortcode-escape/) (Mon Aug 17 2026 10:00 PM)
-- [【macOS】DropboxMacUpdate だけが Intel のまま残っていた](https://raplsworks.com/dropbox-macupdate-intel-binary/) (Thu Aug 13 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [ショートコードの解説を書いたら、記事の中でそれが実行された。18個は、まだ動いていなかっただけ](https://raplsworks.com/wordpress-shortcode-escape/) (Mon Aug 17 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
