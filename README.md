@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [読みにくく書くのに、読める人にしかできない｜コードゴルフの60年](https://raplsworks.com/short-coding-code-golf-appeal/) (Thu Sep 17 2026 10:00 PM)
 - [6行テトリスを468文字で作った。5年前に476文字で作った人がいた](https://raplsworks.com/6line-tetris-470chars-technical-guide/) (Mon Sep 14 2026 10:00 PM)
 - [7行×79文字にテトリスが入っていた｜作者が判明するまでの5年](https://raplsworks.com/7line-programming-tetris-history/) (Thu Sep 10 2026 10:00 PM)
 - [PDFのサムネイルが真っ白になる。エラーはどこにも出ない](https://raplsworks.com/pdf-thumbnail-blank-ghostscript/) (Thu Sep 10 2026 11:10 AM)
-- [WordPress にパスキーでログインするプラグインを作りました｜Rapls Passkey](https://raplsworks.com/rapls-passkey-intro/) (Tue Sep 08 2026 9:48 AM)
-- [酔っ払いが書いた、という話だった｜Entombed の謎が訂正されるまで](https://raplsworks.com/entombed-legend-and-correction/) (Mon Sep 07 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [WordPress にパスキーでログインするプラグインを作りました｜Rapls Passkey](https://raplsworks.com/rapls-passkey-intro/) (Tue Sep 08 2026 9:48 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
