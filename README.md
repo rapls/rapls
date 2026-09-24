@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [横一列12マスで物語を作る｜URLアニメーションで動く107秒の設計](https://raplsworks.com/url-animation-12-cell-design/) (Thu Sep 24 2026 10:00 PM)
 - [WordPress 7.1.2 で直った脆弱性 CVE-2026-87902 と、いま確認すること](https://raplsworks.com/wordpress-7-1-2-security-release/) (Wed Sep 23 2026 6:14 AM)
 - [EF%B8%8F の正体と、URLに書ける絵文字207字の話|URLアニメーション](https://raplsworks.com/emoji-fe0f-variation-selector-url/) (Mon Sep 21 2026 10:00 PM)
 - [読みにくく書くのに、読める人にしかできない｜コードゴルフの60年](https://raplsworks.com/short-coding-code-golf-appeal/) (Thu Sep 17 2026 10:00 PM)
-- [6行テトリスを468文字で作った。5年前に476文字で作った人がいた](https://raplsworks.com/6line-tetris-470chars-technical-guide/) (Mon Sep 14 2026 10:00 PM)
-- [7行×79文字にテトリスが入っていた｜作者が判明するまでの5年](https://raplsworks.com/7line-programming-tetris-history/) (Thu Sep 10 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [6行テトリスを468文字で作った。5年前に476文字で作った人がいた](https://raplsworks.com/6line-tetris-470chars-technical-guide/) (Mon Sep 14 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
