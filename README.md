@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ライセンスの一覧が空になった夜｜JSON ファイル1つのサーバーで起きた競合と、4つの資料からの復旧](https://raplsworks.com/license-server-json-race-condition/) (Thu Oct 01 2026 10:00 PM)
 - [Rapls AI Chatbot ガイド｜WordPress AIチャットボットの導入から運用まで](https://raplsworks.com/rapls-ai-chatbot-guide/) (Mon Sep 28 2026 10:00 PM)
 - [横一列12マスで物語を作る｜URLアニメーションで動く107秒の設計](https://raplsworks.com/url-animation-12-cell-design/) (Thu Sep 24 2026 10:00 PM)
 - [WordPress 7.1.2 で直った脆弱性 CVE-2026-87902 と、いま確認すること](https://raplsworks.com/wordpress-7-1-2-security-release/) (Wed Sep 23 2026 6:14 AM)
-- [EF%B8%8F の正体と、URLに書ける絵文字207字の話|URLアニメーション](https://raplsworks.com/emoji-fe0f-variation-selector-url/) (Mon Sep 21 2026 10:00 PM)
-- [読みにくく書くのに、読める人にしかできない｜コードゴルフの60年](https://raplsworks.com/short-coding-code-golf-appeal/) (Thu Sep 17 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [EF%B8%8F の正体と、URLに書ける絵文字207字の話|URLアニメーション](https://raplsworks.com/emoji-fe0f-variation-selector-url/) (Mon Sep 21 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
