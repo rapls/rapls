@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Projects 開発者編｜スレッド・ブランチ・PR・メモリ・ローカル実行の実戦ガイド](https://raplsworks.com/claude-projects-developer-guide/) (Wed Oct 14 2026 10:00 PM)
 - [Claude Projectsとは？「フォルダ」から「会話」に変わった新プロジェクトを初心者向けにやさしく解説](https://raplsworks.com/claude-projects-beginner-guide/) (Tue Oct 13 2026 10:00 PM)
 - [【第2章】WP-CLI実戦編：サーバー別注意点・移行/保守テンプレ・マルチサイト・CI/CD（初心者〜中級）](https://raplsworks.com/wp-cli-guide-2/) (Mon Oct 12 2026 10:00 PM)
 - [【第1章】WP-CLI完全入門：WordPressを”コマンド”で管理する基礎（初心者〜中級）](https://raplsworks.com/wp-cli-guide-1/) (Thu Oct 08 2026 10:00 PM)
-- [WordPress 7.1.3 が公開｜7件の脆弱性と、いま確認しておくこと](https://raplsworks.com/wordpress-7-1-3-security-release/) (Wed Oct 07 2026 2:19 AM)
-- [200が返るから、気づけなかった｜孤立したAVIFが古い画像を返し続けていた話](https://raplsworks.com/avif-orphan-rewrite/) (Mon Oct 05 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [WordPress 7.1.3 が公開｜7件の脆弱性と、いま確認しておくこと](https://raplsworks.com/wordpress-7-1-3-security-release/) (Wed Oct 07 2026 2:19 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
