@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPressのパスキープラグイン7本を使い比べて、無料で使える5本を実データで比べた](https://raplsworks.com/wordpress-passkey-plugin-comparison/) (Mon Oct 19 2026 10:00 PM)
 - [Cocoon で Prime Cache を使う｜高速化設定を全部オンにしても崩れませんでした](https://raplsworks.com/cocoon-prime-cache/) (Sun Oct 18 2026 8:33 AM)
 - [Ghostscriptの脆弱性CVE-2026-39919と、WordPressでPDFサムネイルを作るサイトがやること](https://raplsworks.com/ghostscript-cve-2026-39919-wordpress-pdf/) (Sat Oct 17 2026 2:00 AM)
 - [Claude Opus 5.5 の破壊的変更は4つ。当たっていたのは、一覧にない1つと、使っていないはずの1つでした](https://raplsworks.com/claude-opus-5-5-breaking-changes-rapls-ai-chatbot/) (Thu Oct 15 2026 10:00 PM)
-- [Claude Projects 開発者編｜スレッド・ブランチ・PR・メモリ・ローカル実行の実戦ガイド](https://raplsworks.com/claude-projects-developer-guide/) (Wed Oct 14 2026 10:00 PM)
-- [Claude Projectsとは？「フォルダ」から「会話」に変わった新プロジェクトを初心者向けにやさしく解説](https://raplsworks.com/claude-projects-beginner-guide/) (Tue Oct 13 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [Claude Projects 開発者編｜スレッド・ブランチ・PR・メモリ・ローカル実行の実戦ガイド](https://raplsworks.com/claude-projects-developer-guide/) (Wed Oct 14 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
