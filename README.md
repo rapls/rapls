@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Thanks Mail for Stripe 導入ガイド｜Stripe Payment Linksの決済後にサンクスメールを自動送信](https://raplsworks.com/thanks-mail-for-stripe/) (Thu Oct 22 2026 10:00 PM)
 - [Node.js脆弱性（CVE-2026-111497）：手元のMacのNode.jsは、修正版が出ない25.xだった【Homebrew】](https://raplsworks.com/nodejs-cve-2026-111497-homebrew-node25/) (Thu Oct 22 2026 10:03 AM)
 - [PHP脆弱性「php2shell」（CVE-2026-109618/109619）、パッチ公開前から適用完了まで、XserverのWordPressサイトで確かめたこと](https://raplsworks.com/php2shell-cve-2026-109618-xserver/) (Wed Oct 21 2026 9:14 AM)
 - [WordPressのパスキープラグイン7本を使い比べて、無料で使える5本を実データで比べた](https://raplsworks.com/wordpress-passkey-plugin-comparison/) (Mon Oct 19 2026 10:00 PM)
-- [Cocoon で Prime Cache を使う｜高速化設定を全部オンにしても崩れませんでした](https://raplsworks.com/cocoon-prime-cache/) (Sun Oct 18 2026 8:33 AM)
-- [Ghostscriptの脆弱性CVE-2026-39919と、WordPressでPDFサムネイルを作るサイトがやること](https://raplsworks.com/ghostscript-cve-2026-39919-wordpress-pdf/) (Sat Oct 17 2026 2:00 AM)<!-- BLOG-POST-LIST:END -->
+- [Cocoon で Prime Cache を使う｜高速化設定を全部オンにしても崩れませんでした](https://raplsworks.com/cocoon-prime-cache/) (Sun Oct 18 2026 8:33 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
