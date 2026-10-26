@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rapls PDF Image Creator｜WordPress PDFサムネイル生成プラグイン](https://raplsworks.com/rapls-pdf-image-creator-guide/) (Mon Oct 26 2026 10:00 PM)
 - [UpdraftPlusの開発元に不正アクセス、盗まれた「合鍵」でサイトに裏口が。初心者向けに、自分のサイトの確かめ方をていねいに解説](https://raplsworks.com/updraftplus-updraftcentral-key-leak-beginner/) (Sun Oct 25 2026 6:53 AM)
 - [Thanks Mail for Stripe 導入ガイド｜Stripe Payment Linksの決済後にサンクスメールを自動送信](https://raplsworks.com/thanks-mail-for-stripe/) (Thu Oct 22 2026 10:00 PM)
 - [Node.js脆弱性（CVE-2026-111497）：手元のMacのNode.jsは、修正版が出ない25.xだった【Homebrew】](https://raplsworks.com/nodejs-cve-2026-111497-homebrew-node25/) (Thu Oct 22 2026 10:03 AM)
-- [PHP脆弱性「php2shell」（CVE-2026-109618/109619）、パッチ公開前から適用完了まで、XserverのWordPressサイトで確かめたこと](https://raplsworks.com/php2shell-cve-2026-109618-xserver/) (Wed Oct 21 2026 9:14 AM)
-- [WordPressのパスキープラグイン7本を使い比べて、無料で使える5本を実データで比べた](https://raplsworks.com/wordpress-passkey-plugin-comparison/) (Mon Oct 19 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [PHP脆弱性「php2shell」（CVE-2026-109618/109619）、パッチ公開前から適用完了まで、XserverのWordPressサイトで確かめたこと](https://raplsworks.com/php2shell-cve-2026-109618-xserver/) (Wed Oct 21 2026 9:14 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
