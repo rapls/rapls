@@ -2,7 +2,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Rapls PDF Image Creator｜WordPress PDFサムネイル生成プラグイン](https://raplsworks.com/rapls-pdf-image-creator-guide/) (Mon Oct 26 2026 10:00 PM)
+- [Rapls PDF Image Creator｜WordPress PDFサムネイル生成プラグイン](https://raplsworks.com/guide-rapls-pdf-image-creator/) (Mon Oct 26 2026 10:00 PM)
 - [UpdraftPlusの開発元に不正アクセス、盗まれた「合鍵」でサイトに裏口が。初心者向けに、自分のサイトの確かめ方をていねいに解説](https://raplsworks.com/updraftplus-updraftcentral-key-leak-beginner/) (Sun Oct 25 2026 6:53 AM)
 - [Thanks Mail for Stripe 導入ガイド｜Stripe Payment Linksの決済後にサンクスメールを自動送信](https://raplsworks.com/thanks-mail-for-stripe/) (Thu Oct 22 2026 10:00 PM)
 - [Node.js脆弱性（CVE-2026-111497）：手元のMacのNode.jsは、修正版が出ない25.xだった【Homebrew】](https://raplsworks.com/nodejs-cve-2026-111497-homebrew-node25/) (Thu Oct 22 2026 10:03 AM)
