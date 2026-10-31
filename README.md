@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [コピーを止めずに、どの文がコピーされたかを知る。WordPressプラグイン「Rapls Copy Notice」を公開しました](https://raplsworks.com/rapls-copy-notice-release/) (Sat Oct 31 2026 4:44 AM)
 - [WordPress 7.1.4 が公開｜22件の脆弱性と、更新の途中に開く「数秒の窓」、いま確認しておくこと](https://raplsworks.com/wordpress-7-1-4-security-release/) (Thu Oct 29 2026 10:35 PM)
 - [AIベンチの「カンニング」を未知入力で見抜く｜EsoLang-Bench 再現で作った採点ハーネス](https://raplsworks.com/esolang-bench-scoring-harness/) (Thu Oct 29 2026 10:00 PM)
 - [ダウンロードフォルダーのAGENTS.mdで、CodexとClaude Codeが乗っ取られる。CVEのつかない攻撃を、手元のMacで確かめた](https://raplsworks.com/agents-md-downloads-coding-agent-check/) (Thu Oct 29 2026 4:23 AM)
-- [Brotliの脆弱性（CVE-2026-111497）は、Node.jsの外へ広がった。手元のMacとWordPressのサーバーで、何を確かめればいいのか](https://raplsworks.com/brotli-cve-2026-111497-beyond-nodejs/) (Thu Oct 29 2026 3:48 AM)
-- [Rapls PDF Image Creator｜WordPress PDFサムネイル生成プラグイン](https://raplsworks.com/pdf-image-creator-guide/) (Wed Oct 28 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
+- [Brotliの脆弱性（CVE-2026-111497）は、Node.jsの外へ広がった。手元のMacとWordPressのサーバーで、何を確かめればいいのか](https://raplsworks.com/brotli-cve-2026-111497-beyond-nodejs/) (Thu Oct 29 2026 3:48 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
