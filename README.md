@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPressで保存のスピナーが止まらなかった。原因はCocoonのブログカードと、コードブロックに並べたURLだった](https://raplsworks.com/wordpress-cocoon-spinner-save-error/) (Thu Nov 05 2026 10:00 PM)
 - [ComplianzでCocoonのスマホメニューが閉じなくなった。設定では直らず、GDPRバナーを自作して置き換えた記録](https://raplsworks.com/complianz-cocoon-mobile-menu-conflict/) (Mon Nov 02 2026 10:00 PM)
 - [コピーを止めずに、どの文がコピーされたかを知る。CCC後継WordPressプラグイン「Rapls Copy Notice」を公開しました](https://raplsworks.com/rapls-copy-notice-release/) (Sat Oct 31 2026 4:44 AM)
 - [WordPress 7.1.4 が公開｜22件の脆弱性と、更新の途中に開く「数秒の窓」、いま確認しておくこと](https://raplsworks.com/wordpress-7-1-4-security-release/) (Thu Oct 29 2026 10:35 PM)
-- [AIベンチの「カンニング」を未知入力で見抜く｜EsoLang-Bench 再現で作った採点ハーネス](https://raplsworks.com/esolang-bench-scoring-harness/) (Thu Oct 29 2026 10:00 PM)
-- [ダウンロードフォルダーのAGENTS.mdで、CodexとClaude Codeが乗っ取られる。CVEのつかない攻撃を、手元のMacで確かめた](https://raplsworks.com/agents-md-downloads-coding-agent-check/) (Thu Oct 29 2026 4:23 AM)<!-- BLOG-POST-LIST:END -->
+- [AIベンチの「カンニング」を未知入力で見抜く｜EsoLang-Bench 再現で作った採点ハーネス](https://raplsworks.com/esolang-bench-scoring-harness/) (Thu Oct 29 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
