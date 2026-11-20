@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [【Malbolge完全攻略 第3回】Malbolgeの命令セットを読む。位置で変わる命令、crazy演算、実行のたびの暗号化](https://raplsworks.com/malbolge-instruction-set-crazy-operation-detail/) (Thu Nov 19 2026 10:00 PM)
 - [WordPress 7.1.5 が公開｜20件の脆弱性を、必要な権限ごとに並べ直した](https://raplsworks.com/wordpress-7-1-5-security-release/) (Thu Nov 19 2026 5:44 AM)
 - [nginxの脆弱性nginx2root（CVE-2026-123007）で、XserverがHTTP/2を止めて昼前に戻した。自分のサイトの確かめ方](https://raplsworks.com/nginx2root-xserver-http2-check/) (Thu Nov 19 2026 5:12 AM)
 - [【Malbolge完全攻略 第2回】Malbolge（マルボルジェ）とは。書けないように作られた言語の仕組みと、攻略の歴史](https://raplsworks.com/malbolge-programming-language-overview/) (Tue Nov 17 2026 10:00 PM)
-- [【Malbolge完全攻略 第1回】Esolang（難解プログラミング言語）とは。実用を捨てた言語たちの50年あまり](https://raplsworks.com/esolang-esoteric-programming-language-guide/) (Mon Nov 16 2026 10:00 PM)
-- [Apple Watch が Xcode に出てこない。20時間かけて分かったのは、Mac もネットワークも悪くなく、隣にいる iPhone が原因だったということ](https://raplsworks.com/apple-watch-xcode-not-showing/) (Sun Nov 15 2026 9:15 AM)<!-- BLOG-POST-LIST:END -->
+- [【Malbolge完全攻略 第1回】Esolang（難解プログラミング言語）とは。実用を捨てた言語たちの50年あまり](https://raplsworks.com/esolang-esoteric-programming-language-guide/) (Mon Nov 16 2026 10:00 PM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
