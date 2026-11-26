@@ -2,11 +2,11 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Finderの「圧縮」で作ったプラグインのZIPに、__MACOSXが入っていた。今は右クリック1回で、余計なもののないZIPを作っています](https://raplsworks.com/mac-zip-hidden-files-clean/) (Thu Nov 26 2026 10:00 PM)
 - [Upload2Shell（CVE-2026-125396）でXserverのPDF変換が止まった1日と、gs –versionが9.27のままだった理由](https://raplsworks.com/upload2shell-cve-2026-125396-xserver/) (Wed Nov 25 2026 2:09 AM)
 - [【Malbolge完全攻略 第4回・最終回】MalbolgeのHello World!は、書かれたのではなく見つけられた。探索のしくみと、最初の48ステップ](https://raplsworks.com/malbolge-hello-world-programming-challenge/) (Mon Nov 23 2026 10:00 PM)
 - [【Malbolge完全攻略 第3回】Malbolgeの命令セットを読む。位置で変わる命令、crazy演算、実行のたびの暗号化](https://raplsworks.com/malbolge-instruction-set-crazy-operation-detail/) (Thu Nov 19 2026 10:00 PM)
-- [WordPress 7.1.5 が公開｜20件の脆弱性を、必要な権限ごとに並べ直した](https://raplsworks.com/wordpress-7-1-5-security-release/) (Thu Nov 19 2026 5:44 AM)
-- [nginxの脆弱性nginx2root（CVE-2026-123007）で、XserverがHTTP/2を止めて昼前に戻した。自分のサイトの確かめ方](https://raplsworks.com/nginx2root-xserver-http2-check/) (Thu Nov 19 2026 5:12 AM)<!-- BLOG-POST-LIST:END -->
+- [WordPress 7.1.5 が公開｜20件の脆弱性を、必要な権限ごとに並べ直した](https://raplsworks.com/wordpress-7-1-5-security-release/) (Thu Nov 19 2026 5:44 AM)<!-- BLOG-POST-LIST:END -->
 <!--
 **rapls/rapls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
